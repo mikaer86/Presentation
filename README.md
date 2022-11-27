@@ -17,9 +17,22 @@
 - Functions are resuable and can be called upon in different scenarios .
 
 
+
+#### scope
+
+- global scope
+- local scope
 #### Arrays
 
 - Arrays is a data structure and represents a list of elements ex. (objects,strings,numbers).
+
+#### array functions
+
+- push() // pushes a elements to a array
+- filter() // filter out x amount elements in a decending order
+- map() // create a new array with the pre-existing elements
+- pop() // remove a elements from the array
+
 
 
 #### conditions
@@ -37,6 +50,11 @@
 - To access a object we use key name to access and modify or add new properties of the object. (Example below)how to access and manipulate properties.
 
 ![image](images/objects.png)
+
+
+#### Localstorage & SessionStorage
+
+
 
 
 
