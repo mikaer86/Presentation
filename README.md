@@ -29,7 +29,7 @@
 #### array functions
 
 - push() // pushes a elements to a array
-- filter() // filter out x amount elements in a decending order
+- filter() // filter out x amount elements in a descending order
 - map() // create a new array with the pre-existing elements
 - pop() // remove a elements from the array
 
