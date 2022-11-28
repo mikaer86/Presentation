@@ -20,10 +20,10 @@
 
 #### scope
 
-- block scope // variables being declared inside functions are locked for access inside its scope
+- block scope // variables being declared inside functions are locked for access inside its scope.
 
-- global scope // globla variables can be accessed and used by any functions
-- function scope // Each function creates a new scope. and only be executed in that context
+- global scope // global variables can be accessed and used by any functions
+- function scope // Each function creates a new scope. and only be executed in that context.
 #### Arrays
 
 - Arrays is a data structure and represents a list of elements ex. (objects,strings,numbers).
@@ -32,10 +32,14 @@
 
 #### array functions
 
-- push() // pushes a elements to a array
-- filter() // filter out x amount elements in a descending order
-- map() // create a new array with the pre-existing elements
-- pop() // remove a elements from the array
+- push() // pushes a elements to a array.
+
+- filter() // filter out x amount elements in a descending order.
+
+- map() // create a new array with the pre-existing elements.
+
+- pop() // remove a elements from the array.
+
 
 
 
@@ -47,8 +51,10 @@
 
 #### Objects
 
-- Objects is code block with a set of properties and methods
+- Objects is code block with a set of properties and methods.
+
 - Ex. let Car = { model: Mercedes color: blue  };
+
 - When we work with big dataset, objects  is a more efficient  way to structure data then just using a array.
 
 - The name of a object is called a key.
@@ -68,19 +74,27 @@
 
 #### API : Application programming Interface
 
-- fetch API //
-- Async / Await // 
+- Asynchronous programming // is a  technique how handle long running processes while still be able to handle other events.
+
+- fetch API //  enables us to get and data from http requests
+
+- Async // Async enables us to declare a Asynchronous function
+
+-  Await // the await keyword enables us to intitalize  confirmation of requested data in the future, which call a promise.
+
 - Promise // is a object is which representing a completion or a failure of an asynchronous process.
 
 #### Github
 
-- pull request // download and  review 
+- pull request // download and review current updatesin the code stack. 
+
 - merge // approved code changes can be merged each individual code branch to its master file.
 
 #### modules
 
 - a way to breakdown and structure code blocks.
-- gives us ability to export and import functions and variables for using these modules when needed
+
+- gives us ability to export and import functions and variables for using these modules when needed.
 
 
 
