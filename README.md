@@ -20,11 +20,15 @@
 
 #### scope
 
-- global scope
-- local scope
+- block scope // variables being declared inside functions are locked for access inside its scope
+
+- global scope // globla variables can be accessed and used by any functions
+- function scope // Each function creates a new scope. and only be executed in that context
 #### Arrays
 
 - Arrays is a data structure and represents a list of elements ex. (objects,strings,numbers).
+
+![image] (images/)
 
 #### array functions
 
@@ -36,6 +40,8 @@
 
 
 #### conditions
+
+- if // else statements // is a boolean control statements to check if a condition is true or false 
 
 
 
@@ -53,6 +59,23 @@
 
 
 #### Localstorage & SessionStorage
+
+- local and sessionsStorage both store readable properties. localstored properties can be accessed again when the 
+
+- Session Storage // store data until the tab is closed.
+
+- LocalStorage // store data with no expiration date( not recomended ) (can store between 2mb up to 10mb).
+
+#### API : Application programming Interface
+
+- fetch API //
+- Async / Await //
+- Promise 
+
+#### Github
+
+- pull request
+- merge
 
 
 
