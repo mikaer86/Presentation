@@ -69,13 +69,20 @@
 #### API : Application programming Interface
 
 - fetch API //
-- Async / Await //
-- Promise 
+- Async / Await // 
+- Promise // is a object is which representing a completion or a failure of an asynchronous process.
 
 #### Github
 
-- pull request
-- merge
+- pull request // download and  review 
+- merge // approved code changes can be merged each individual code branch to its master file.
+
+#### modules
+
+- a way to breakdown and structure code blocks.
+- gives us ability to export and import functions and variables for using these modules when needed
+
+
 
 
 
