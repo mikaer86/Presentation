@@ -16,19 +16,21 @@
 - Functions is a block of code which is assigned to a specific task.
 - Functions are resuable and can be called upon in different scenarios .
 
-
-
 #### scope
 
 - block scope // variables being declared inside functions are locked for access inside its scope.
 
 - global scope // global variables can be accessed and used by any functions
-- function scope // Each function creates a new scope. and only be executed in that context.
+- function scope // Each function creates a new scope. and can only be executed in that context.
+
+- fiew examples of seperations of conserns.
+![image](images/scope_variables.png)
+///
+[image] (images/scope_calling_functions.png)
 #### Arrays
 
 - Arrays is a data structure and represents a list of elements ex. (objects,strings,numbers).
 
-![image] (images/)
 
 #### array functions
 
@@ -40,15 +42,9 @@
 
 - pop() // remove a elements from the array.
 
-
-
-
 #### conditions
 
 - if // else statements // is a boolean control statements to check if a condition is true or false 
-
-
-
 #### Objects
 
 - Objects is code block with a set of properties and methods.
