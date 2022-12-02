@@ -26,7 +26,6 @@
 - fiew examples of seperations of conserns.
 ![image](images/scope_variables.png)
 ///
-[image] (images/scope_calling_functions.png)
 #### Arrays
 
 - Arrays is a data structure and represents a list of elements ex. (objects,strings,numbers).
@@ -60,6 +59,14 @@
 ![image](images/objects.png)
 
 
+
+#### Loops
+
+- for Loop
+
+[image](images/randomCard.png)
+
+- while loop
 #### Localstorage & SessionStorage
 
 - local and sessionsStorage both store readable properties. localstored properties can be accessed again when the 
@@ -80,9 +87,11 @@
 
 - Promise // is a object is which representing a completion or a failure of an asynchronous process.
 
+[image](images/getWeatherData.png)
+
 #### Github
 
-- pull request // download and review current updatesin the code stack. 
+- pull request // download and review current updates in the code stack. 
 
 - merge // approved code changes can be merged each individual code branch to its master file.
 
